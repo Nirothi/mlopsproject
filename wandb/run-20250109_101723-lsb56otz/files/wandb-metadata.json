@@ -1,0 +1,44 @@
+{
+  "os":  "macOS-14.4-arm64-arm-64bit",
+  "python":  "CPython 3.12.8",
+  "startedAt":  "2025-01-09T09:17:24.390038Z",
+  "program":  "/Users/niro/Library/Mobile Documents/com~apple~CloudDocs/Master/4.semester/my_dtu_mlops/mlops2/mlopsproject_fuck/mlopsproject_fuck/src/mlopsproject/train.py",
+  "codePath":  "mlopsproject_fuck/mlopsproject_fuck/src/mlopsproject/train.py",
+  "git":  {
+    "remote":  "https://github.com/Nirothi/mlops2.git",
+    "commit":  "7946c5d04c75c1364de22da649c59267804bdadc"
+  },
+  "email":  "s204654@dtu.dk",
+  "root":  "/Users/niro/Library/Mobile Documents/com~apple~CloudDocs/Master/4.semester/my_dtu_mlops/mlops2/mlopsproject_fuck/mlopsproject_fuck",
+  "host":  "0052d3c16d.dynamic-ip4.rev.k-net.dk",
+  "executable":  "/Users/niro/Library/Mobile Documents/com~apple~CloudDocs/Master/4.semester/dtu_mlops/dtumlops_environment/bin/python",
+  "codePathLocal":  "src/mlopsproject/train.py",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "245107195904",
+      "used":  "209943990272"
+    },
+    "/System/Volumes/Data":  {
+      "total":  "245107195904",
+      "used":  "209943990272"
+    }
+  },
+  "memory":  {
+    "total":  "8589934592"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  8
+  },
+  "apple":  {
+    "name":  "Apple M1",
+    "ecpuCores":  4,
+    "pcpuCores":  4,
+    "gpuCores":  7,
+    "memoryGb":  8,
+    "swapTotalBytes":  "3221225472",
+    "ramTotalBytes":  "8589934592"
+  }
+}
