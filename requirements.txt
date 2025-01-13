@@ -6,3 +6,7 @@ matplotlib>=3.8.1
 scikit-learn>=1.6
 pytest==8.3.4
 coverage==7.6.10
+matplotlib==3.10.0
+pytorch_lightning==2.5.0.post0
+scikit_learn==1.6.1
+wandb==0.19.2
