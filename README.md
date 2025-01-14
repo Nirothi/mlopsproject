@@ -1,6 +1,6 @@
 # mlopsproject
 
-my mlops project 
+my mlops project
 
 ## Project structure
 

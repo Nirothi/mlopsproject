@@ -1,6 +1,5 @@
 from mlopsproject.model import MyAwesomeModel
-import torch 
-import pytest
+import torch
 from tests import _PATH_DATA
 
 # Test model behavior with a valid input

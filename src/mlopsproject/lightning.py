@@ -47,7 +47,7 @@ if __name__ == "__main__":
     dummy_input = torch.randn(1, 1, 28, 28)
     output = model(dummy_input)
     print(f"Output shape: {output.shape}")
-    
+
     trainer = pl.Trainer(max_epochs=10)
     #trainer = pl.Trainer(max_epochs=10,limit_train_batches=0.2)
     trainer.fit(model)
